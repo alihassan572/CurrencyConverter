@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  ConverterCurrency
+//  Currency Converter
 //
-//  Created by Ali Hassan on 07/05/2025.
+//  Created by Ali Hassan on 24/04/2025.
 //
 
 import UIKit
